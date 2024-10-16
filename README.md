@@ -1,12 +1,15 @@
-# MatrixLab Project
+# MatrixLab Assignment
 
 This project was developed as part of a technical interview assignment to demonstrate my skills in building a modern web application using React and related technologies. The focus is on creating a performant and responsive user interface with smooth animations.
+
+## Live Demo (https://vercel.com/anikets-projects-a642f60e/aniket-shinde-frontend-developer/Dumst7K8GXdRL33wVPDBLJCrFYt1)
 
 ## Tools & Technologies
 
 - **Frontend:** React.js
 - **Styling:** Tailwind CSS
 - **Animations:** Smooth transitions and interactions
+  
 
 
 ## Features
